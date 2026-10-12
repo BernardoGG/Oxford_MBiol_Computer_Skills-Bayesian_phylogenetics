@@ -1,0 +1,1 @@
+This folder contains the Maximum Clade Credibility (MCC) trees from the BEAST runs performed ahead of the practical, plus a hypothetical 2019-outbreak teaching tree (`MCC_CHIKV_IndianOcean_2019hypotheticaloutbreak.tree`) built for the assignment.
